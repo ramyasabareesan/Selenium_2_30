@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Jewellery page is displayed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-12T16:00:57 IST" name="Default suite" finished-at="2025-05-12T16:01:09 IST" duration-ms="12522">
+    <groups>
+    </groups>
+    <test started-at="2025-05-12T16:00:57 IST" name="Default test" finished-at="2025-05-12T16:01:09 IST" duration-ms="12522">
+      <class name="jewellery.TC_DWS_005_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:jewellery.TC_DWS_005_Test@34123d65]" started-at="2025-05-12T16:00:57 IST" name="openBrowser" finished-at="2025-05-12T16:01:04 IST" duration-ms="6983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="clickonJewellery()[pri:0, instance:jewellery.TC_DWS_005_Test@34123d65]" started-at="2025-05-12T16:01:04 IST" name="clickonJewellery" finished-at="2025-05-12T16:01:05 IST" duration-ms="1291" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Jewellery page is displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickonJewellery -->
+        <test-method is-config="true" signature="login()[pri:0, instance:jewellery.TC_DWS_005_Test@34123d65]" started-at="2025-05-12T16:01:05 IST" name="login" finished-at="2025-05-12T16:01:08 IST" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:jewellery.TC_DWS_005_Test@34123d65]" started-at="2025-05-12T16:01:08 IST" name="logout" finished-at="2025-05-12T16:01:09 IST" duration-ms="1131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:jewellery.TC_DWS_005_Test@34123d65]" started-at="2025-05-12T16:01:09 IST" name="closeBrowser" finished-at="2025-05-12T16:01:09 IST" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- jewellery.TC_DWS_005_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
