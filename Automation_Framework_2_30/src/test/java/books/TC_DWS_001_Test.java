@@ -16,7 +16,7 @@ public class TC_DWS_001_Test extends Baseclass {
 		Homepage hp=new Homepage(driver);
 		hp.getBookLink().click();
 		Assert.assertEquals(driver.getTitle(), "Demo Web Shop. ", "books page is not displayed");
-		Reporter.log("Books page is displayed",true
-				);
+		Reporter.log("Books page is displayed",true);
+		Reporter.log("Books page is displayed",true);
 	}
 }
